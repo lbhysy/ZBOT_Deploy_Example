@@ -1,6 +1,6 @@
 # Sim2Real 部署流程网站
 
-🌐 **[点击访问网站](https://1bhysy.github.io/ZBOT_Deploy_Example/)**
+🌐 **[点击访问网站](https://lbhysy.github.io/ZBOT_Deploy_Example/)**
 
 本网站介绍从 Mjlab / Isaac Lab 策略到实机部署的流程，并提供 `deploy_example` 框架示例下载。
 

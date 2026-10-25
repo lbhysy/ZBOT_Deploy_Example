@@ -2,7 +2,7 @@
 
 🌐 **[点击访问网站](https://1bhysy.github.io/ZBOT_Deploy_Example/)**
 
-本网站介绍从 Mjlab / Isaac Lab 策略到实机部署的流程，并提供 `deploy_example` 框架示例下载。网站无需 ChatGPT 账号。
+本网站介绍从 Mjlab / Isaac Lab 策略到实机部署的流程，并提供 `deploy_example` 框架示例下载。
 
 ## GitHub Pages 发布
 
